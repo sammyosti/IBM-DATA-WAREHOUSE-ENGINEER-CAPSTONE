@@ -3,7 +3,8 @@
 > SoftCart will be using MySQL for our online transactional processing, such as storing inventory and sales data. Based on the sample data given, design the database schema and create a database to store our sales data. Create an index on the timestamp column and write an administrative bash script that exports sales data into a SQL file.
 
 ## Database Schema
-![Sample OLTP Sales Data - MySQL](sample-oltp-data.png)
+!(https://github.com/sammyosti/IBM-DATA-WAREHOUSE-ENGINEER-CAPSTONE/assets/78179187/394a75e7-9d80-43fd-927c-7e2bc547e3b4)
+
 
 Based on the sample data given, the schema will contain the following columns:
 - `product_id`
@@ -116,13 +117,3 @@ Now our `sales_data` export process can be automated or executed manually with t
 ```console
 sudo ./datadump.sh
 ```
-
-## About This Lab
-##### Environment/IDE
-This portion of the project will be using the Cloud IDE based on Theia and MySQL running in a Docker container.
-
-##### Tools/Software
-- MySQL 8.0.22
-- phpMyAdmin 5.0.4
-
-[<kbd> <br> → Next Assignment <br> </kbd>](/02%20-%20MongoDB%20NoSQL%20Catalog%20Database)
