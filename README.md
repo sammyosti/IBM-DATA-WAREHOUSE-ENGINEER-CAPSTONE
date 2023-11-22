@@ -1,7 +1,7 @@
 # IBM Data Warehouse Engineering Capstone Project
 In this project, I will assume the role of a Junior Data Warehouse Engineer who has recently joined a fictional online e-Commerce company named SoftCart. I will be presented with real-world use cases that will require me to apply a number of industry standard data engineering solutions.
 
-[DPA](https://github.com/sammyosti/IBM-DATA-WAREHOUSE-ENGINEER-CAPSTONE/assets/78179187/ef1c8620-2dcd-4540-b4d1-89ab81c1e834)
+![DPA](https://github.com/sammyosti/IBM-DATA-WAREHOUSE-ENGINEER-CAPSTONE/assets/78179187/ef1c8620-2dcd-4540-b4d1-89ab81c1e834)
 
 
 ## Objectives
